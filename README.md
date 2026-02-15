@@ -1,10 +1,9 @@
-[![](qrcode.png)](qrcode.png)
+# [http://localhost/JAVASCRIPT/edit-readme.html](http://localhost/JAVASCRIPT/edit-readme.html)
 
-# [TRASH MAGIC JAVASCRIPT](https://github.com/lafelabs/JAVASCRIPT/)
+# [https://github.com/lafelabs/JAVASCRIPT/](https://github.com/lafelabs/JAVASCRIPT/)
 
-![](CARDBOARD-SIGN.JPG)
-![](QRCODE.JPG)
-
+![](CARDBOARD-SIGN.PNG)
+![](QRCODE.PNG)
 
 # FREE WEB SERVERS IN THE PARK!
 # SELF-REPLICATING MEDIA MADE FROM TRASH!
