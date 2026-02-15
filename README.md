@@ -2,8 +2,8 @@
 
 # [https://github.com/lafelabs/JAVASCRIPT/](https://github.com/lafelabs/JAVASCRIPT/)
 
-![](CARDBOARD-SIGN.PNG)
-![](QRCODE.PNG)
+![](CARDBOARD-SIGN.png)
+![](QRCODE.png)
 
 # FREE WEB SERVERS IN THE PARK!
 # SELF-REPLICATING MEDIA MADE FROM TRASH!
